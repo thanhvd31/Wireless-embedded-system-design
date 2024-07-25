@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Tuong"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ble.h": "c",
+			"ble_gatts_server.h": "c",
+			"esp_gatt_common_api.h": "c",
+			"esp_bt_main.h": "c",
+			"esp_gap_ble_api.h": "c",
+			"esp_bt.h": "c",
+			"nvs_flash.h": "c",
+			"ble_gatts.h": "c",
+			"esp_ota_ops.h": "c",
+			"task.h": "c",
+			"freertos.h": "c",
+			"led.h": "c",
+			"esp_netif.h": "c",
+			"esp_gatts_api.h": "c",
+			"esp_log.h": "c",
+			"protocol_examples_common.h": "c",
+			"mqtt_client.h": "c",
+			"param.h": "c",
+			"err.h": "c",
+			"sys.h": "c",
+			"wifi.h": "c",
+			"wifi_station.h": "c",
+			"esp_system.h": "c",
+			"event_groups.h": "c",
+			"limits": "c",
+			"*.ipp": "c",
+			"74hc595.h": "c",
+			"cstring": "c",
+			"reent.h": "c",
+			"_ansi.h": "c",
+			"cdefs.h": "c",
+			"_locale.h": "c",
+			"esp_event.h": "c",
+			"*.tcc": "c",
+			"ratio": "c"
+		}
+	}
+}
